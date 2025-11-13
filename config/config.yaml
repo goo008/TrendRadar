@@ -98,3 +98,7 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "x"
+    name: "x"
+  - id: "gooqle"
+    name: "谷歌"
